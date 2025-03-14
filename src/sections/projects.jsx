@@ -10,7 +10,7 @@ const Projects = () => {
                     <Card link={'https://www.brilliantsoftware.com.br/'} title={'Brilliant Software'} description={'Site para minha empresa'} url={'https://i.postimg.cc/tCcwJg0S/Captura-de-tela-2025-03-14-083752.png'}/>
                     <Card link={'https://responsive-login-screen.vercel.app/'} title={'Tela de login'} description={'Tela de login responsiva'} url={'https://i.postimg.cc/9Fw8FHb3/project3.webp'}/>
                 </ul>
-                <div className="md:flex justify-center"><a target="_blank" href="https://github.com/jockaplay?tab=repositories" className="flex justify-center md:w-2/12 bg-purple-950 rounded-2xl text-white p-5 md:p-2 md:hover:scale-110 transition md:hover:bg-purple-900">Ver Mais</a></div>
+                <div className="md:flex justify-center"><a target="_blank" href="https://github.com/jockamt?tab=repositories" className="flex justify-center md:w-2/12 bg-purple-950 rounded-2xl text-white p-5 md:p-2 md:hover:scale-110 transition md:hover:bg-purple-900">Ver Mais</a></div>
             </div>
         </section>
     )
