@@ -6,19 +6,23 @@ const About = () => {
                     <h2 className="text-center text-3xl font-semibold border-b-2 pb-10">5 motivos para ter um site!</h2>
                     <ul className="flex flex-col list-disc pt-10 md:px-20 md:py-10 xl:grid grid-cols-2 gap-10">
                         <li className="flex flex-row gap-5">
-                            <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/><p><strong>Presença Online e Visibilidade:</strong> Um site serve como a &quot;vitrine&quot; online, permitindo que pessoas de todo o mundo descubram você, sua empresa ou sua organização. É essencial para estabelecer uma presença digital e aumentar a visibilidade.</p>
+                        <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/>
+                        <p><strong>Responsividade e Adaptabilidade:</strong> Interfaces desenvolvidas para funcionar perfeitamente em qualquer dispositivo (mobile, tablet, desktop), utilizando técnicas como <strong>CSS Grid</strong>, <strong>Flexbox</strong> e <strong>media queries</strong> para uma experiência consistente.</p>
                         </li>
+
                         <li className="flex flex-row gap-5">
-                            <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/><p><strong>Credibilidade e Profissionalismo:</strong> Ter um site bem projetado e informativo ajuda a construir credibilidade e profissionalismo. As pessoas tendem a confiar mais em empresas e profissionais que têm um site do que naqueles que não têm.</p>
+                        <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/>
+                        <p><strong>Performance Otimizada:</strong> Código limpo e eficiente (HTML, CSS, JavaScript) para carregamento rápido, com práticas como <strong>lazy loading</strong>, minificação de arquivos e otimização de imagens.</p>
                         </li>
+
                         <li className="flex flex-row gap-5">
-                            <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/><p><strong>Marketing e Publicidade:</strong> Um site é uma ferramenta crucial para estratégias de marketing digital, incluindo SEO (otimização para mecanismos de busca), marketing de conteúdo e campanhas de mídia paga. Ele permite alcançar um público mais amplo e específico.</p>
+                        <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/>
+                        <p><strong>Experiência do Usuário (UX) Intuitiva:</strong> Design focado em usabilidade, com navegação clara, acessibilidade (<strong>WCAG</strong>) e interações fluidas, como microinterações e animações suaves.</p>
                         </li>
+
                         <li className="flex flex-row gap-5">
-                            <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/><p><strong>Expansão de Negócios:</strong> Um site pode ajudar na expansão dos negócios, alcançando novos mercados e clientes em diferentes regiões geográficas que, de outra forma, seriam inacessíveis.</p>
-                        </li>
-                        <li className="flex flex-row col-span-2 gap-5">
-                            <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/><p><strong>Informação e Comunicação:</strong> Um site permite compartilhar informações detalhadas sobre produtos, serviços, eventos e outras atualizações importantes. Também facilita a comunicação com clientes, parceiros e o público em geral através de formulários de contato, blogs, newsletters e chats ao vivo.</p>
+                        <img className="flex h-8" src="https://i.postimg.cc/nLNV6cYH/icons8-conta-verificada-96.webp"/>
+                        <p><strong>Tecnologias Modernas e Boas Práticas:</strong> Domínio de frameworks como <strong>React</strong>, <strong>Vite</strong> ou <strong>Next.JS</strong>, além de controle de versão (<strong>Git/GitHub/Gitlab</strong>) e metodologias como desenvolvimento baseado em componentes.</p>
                         </li>
                     </ul>
                     <div className="flex w-full justify-center pt-20 xl:pt-5 gl:pt-10">
