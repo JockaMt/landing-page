@@ -12,7 +12,7 @@ const Landing = () => {
                     <h2 className="font-bold text-5xl bg-gradient-to-r from-purple-900 via-purple-900 via-purple-600 to-purple-900 text-transparent bg-clip-text">Full Stack</h2>
                     <h3 className="pt-2 font-semibold">Web, Mobile e Games</h3>
                     <ul className="flex space-x-5 pt-6">
-                        <li><a className="hover:text-purple-800" href="https://github.com/jockaplay?tab=repositories"><FontAwesomeIcon icon={faGithub} /></a></li>
+                        <li><a className="hover:text-purple-800" href="https://github.com/jockamt?tab=repositories"><FontAwesomeIcon icon={faGithub} /></a></li>
                         <li><a className="hover:text-purple-800" href="https://br.linkedin.com/in/jocka-dev?trk=people-guest_people_search-card"><FontAwesomeIcon icon={faLinkedin} /></a></li>
                         <li><a className="hover:text-purple-800" href="https://www.instagram.com/j.mt1s/"><FontAwesomeIcon icon={faInstagram} /></a></li>
                     </ul>
